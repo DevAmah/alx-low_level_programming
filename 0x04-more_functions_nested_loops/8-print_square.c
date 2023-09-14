@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_square - prints a square
  * @n : number of _ to be printed
